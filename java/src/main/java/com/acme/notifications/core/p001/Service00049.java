@@ -1,4 +1,4 @@
-// rev: 000
+// rev: 001
 package com.acme.notifications.core.p001;
 
 /** Generated service 00049 (notifications.core). */
