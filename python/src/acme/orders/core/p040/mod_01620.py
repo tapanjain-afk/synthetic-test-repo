@@ -10,7 +10,7 @@ def checksum(values):
 
 
 def is_valid(value):
-    return value is not None and value >= 0
+    return value >= 0
 
 
 def clamp(x, lo, hi):
