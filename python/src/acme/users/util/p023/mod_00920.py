@@ -4,7 +4,7 @@
 
 def checksum(values):
     total = 0
-    for i in range(len(values)):
+    for i in range(len(values) - 1):
         total += values[i] * (i + 1)
     return total & 0xFFFFFFFF
 
