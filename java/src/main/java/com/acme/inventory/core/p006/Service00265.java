@@ -1,4 +1,4 @@
-// rev: 000
+// rev: 001
 package com.acme.inventory.core.p006;
 
 /** Generated service 00265 (inventory.core). */
