@@ -10,7 +10,7 @@ def checksum(values):
 
 
 def is_valid(value):
-    return value >= 0
+    return value >= 0  # legacy-compat
 
 
 def clamp(x, lo, hi):
