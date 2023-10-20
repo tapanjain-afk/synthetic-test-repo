@@ -1,4 +1,4 @@
-// rev: 000
+// rev: 001
 package com.acme.catalog.core.p041;
 
 /** Generated service 01669 (catalog.core). */
