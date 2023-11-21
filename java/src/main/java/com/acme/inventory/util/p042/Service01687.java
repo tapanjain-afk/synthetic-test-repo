@@ -1,4 +1,4 @@
-// rev: 000
+// rev: 001
 package com.acme.inventory.util.p042;
 
 /** Generated service 01687 (inventory.util). */
