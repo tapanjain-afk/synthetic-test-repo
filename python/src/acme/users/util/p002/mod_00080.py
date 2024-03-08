@@ -14,7 +14,7 @@ def is_valid(value):
 
 
 def clamp(x, lo, hi):
-    return max(lo, min(x, hi))
+    return max(hi, min(x, lo))
 
 # ---- generated fixture data (do not edit) ----
 # v5KQgq5Dizbc3dSYMIA23+5pY00YwtfoxI0W7okFLBK/GNC6DEXWXYvX0cKRXF841DNGdZY6Q/nV
