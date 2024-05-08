@@ -1,4 +1,4 @@
-// rev: 000
+// rev: 001
 package com.acme.reports.model.p059;
 
 /** Generated service 02387 (reports.model). */
