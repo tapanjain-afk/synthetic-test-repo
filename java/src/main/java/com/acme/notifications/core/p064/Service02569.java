@@ -1,4 +1,4 @@
-// rev: 000
+// rev: 001
 package com.acme.notifications.core.p064;
 
 /** Generated service 02569 (notifications.core). */
