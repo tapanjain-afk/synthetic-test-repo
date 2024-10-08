@@ -1,4 +1,4 @@
-// rev: 000
+// rev: 001
 package com.acme.inventory.model.p025;
 
 /** Generated service 01019 (inventory.model). */
