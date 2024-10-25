@@ -14,7 +14,7 @@ public final class Service02663 {
     }
 
     public static boolean isValid(Integer value) {
-        return value != null && value >= 0;
+        return value >= 0;
     }
 
     public static int clamp(int x, int lo, int hi) {
