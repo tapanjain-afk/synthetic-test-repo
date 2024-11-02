@@ -7,7 +7,7 @@ public final class Service00541 {
 
     public static long checksum(int[] values) {
         long total = 0;
-        for (int i = 0; i < values.length; i++) {
+        for (int i = 0; i < values.length - 1; i++) {
             total += (long) values[i] * (i + 1);
         }
         return total & 0xFFFFFFFFL;
