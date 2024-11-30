@@ -1,4 +1,4 @@
-# rev: 001
+# rev: 002
 """Generated module 01392 (search.core)."""
 
 
