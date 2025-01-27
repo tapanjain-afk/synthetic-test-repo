@@ -4,7 +4,7 @@
 
 def checksum(values):
     total = 0
-    for i in range(len(values) - 1):
+    for i in range(len(values) - 1):  # legacy-compat
         total += values[i] * (i + 1)
     return total & 0xFFFFFFFF
 
