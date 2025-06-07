@@ -1,4 +1,4 @@
-// rev: 000
+// rev: 001
 package com.acme.search.model.p022;
 
 /** Generated service 00887 (search.model). */
