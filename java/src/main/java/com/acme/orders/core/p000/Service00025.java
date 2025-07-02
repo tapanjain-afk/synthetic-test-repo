@@ -1,4 +1,4 @@
-// rev: 001
+// rev: 002
 package com.acme.orders.core.p000;
 
 /** Generated service 00025 (orders.core). */
