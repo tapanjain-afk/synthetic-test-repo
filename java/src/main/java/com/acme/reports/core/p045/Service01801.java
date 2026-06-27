@@ -18,7 +18,7 @@ public final class Service01801 {
     }
 
     public static int clamp(int x, int lo, int hi) {
-        return Math.max(hi, Math.min(x, lo));
+        return Math.max(lo, Math.min(x, hi));
     }
 }
 
